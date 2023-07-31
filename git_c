@@ -26,3 +26,8 @@ Switching to new branch : git checkout dev
 
 Make github account
 
+make new repo 
+git remote -v : to check url of  cloned repo 
+
+
+
