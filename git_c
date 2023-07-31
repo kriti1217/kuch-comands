@@ -1,0 +1,28 @@
+                                     Git command 
+Apt-get install git
+Git config  --global  user.name “Arvind kumar”
+Git config -- global user.mail “arv@gmail.com “
+Mkdir git_test
+Git init 
+Git status
+Touch test.txt :-untracked
+Git add test.txt : staged  to unstage git rm –cached  file 
+Git restore test.txt  
+Git status 
+Git commit -m “ths is my first commit”
+
+
+Git log  : commits details 
+Head shows your current version 
+
+Git log –oneline  ;; show full commet id
+git log --oneline –pretty :  show only inistial chara of commit id 
+
+Branch 
+Master branch : 
+Make new branch : git checkout -b dev 
+
+Switching to new branch : git checkout dev 
+
+Make github account
+
