@@ -35,3 +35,24 @@ git pull origin
 hi this new update from git commands 
 
 and 
+
+
+Got to github –settings : developer setting : personal acees token : classic :classic : generate 
+
+git remote set-url --add origin https://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@github.com/kriti1217/kuch-comands.git
+
+ git remote -v 
+
+git remote -v delete old url 
+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
+
+clone vs fork 
+clone to local 
+fork is copy  to git hub 
+for push the update code from local repo  ,with access token 
+git remote set-url --push origin https://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@github.com/kriti1217/kuch-comands.git
+
+ git add file
+git commit -m “hello”
+git push origin miain 
+
